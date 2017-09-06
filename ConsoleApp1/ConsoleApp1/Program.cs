@@ -15,6 +15,8 @@ namespace ConsoleApp1
             Console.WriteLine("Testing GitHub");
 
             //Code to call Feature1
+
+            // Code to call Feature 2
         }
     }
 }
